@@ -26,6 +26,7 @@ $(document).ready(function()
 	{
 		$("td").removeClass('highlight');
 		$('.set4').text(0);
+		score=0;
 
 	});
     $(".butts2").on("click",".set3",function(){
