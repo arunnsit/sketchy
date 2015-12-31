@@ -34,6 +34,7 @@ $(document).ready(function()
     	maxr*=2;
     	maxc*=2;
     	zoo*=0.8;
+    	score=0;
     	$('body').css('zoom',zoo);
 		printgrid();}
 		else 
